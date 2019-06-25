@@ -55,15 +55,6 @@ namespace Calculator
             Console.Write("\n" + "Press any key to exit");
             Console.ReadKey();
 
-            
-
-
-
-
-
-
-
-
         }
     }
 }
